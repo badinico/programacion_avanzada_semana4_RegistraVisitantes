@@ -1,8 +1,3 @@
-"""
-Sistema de Registro de Visitantes del Museo de París
-Implementado con arquitectura Domain-Driven Design (DDD)
-"""
-
 from domain.entities import Museum
 from application.use_cases import (
     RegisterVisitorUseCase, 
