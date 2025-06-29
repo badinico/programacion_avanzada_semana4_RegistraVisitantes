@@ -1,0 +1,3 @@
+# Sistema MyPro - Fábrica de Software
+# No se requieren dependencias externas
+# Python 3.8 o superior 
